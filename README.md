@@ -27,4 +27,3 @@ Ana,ana@yahoo.com,5000.00
 
 - Java 8+
 - Programação funcional com Streams
-- 
