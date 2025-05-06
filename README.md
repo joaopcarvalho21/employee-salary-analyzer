@@ -27,3 +27,9 @@ Ana,ana@yahoo.com,5000.00
 
 - Java 8+
 - Programação funcional com Streams
+
+## 📊 Diagrama UML
+
+Abaixo está o diagrama UML representando a estrutura do projeto:
+
+![image](https://github.com/user-attachments/assets/c80087d8-264a-4019-bb2b-3353903350f4)
